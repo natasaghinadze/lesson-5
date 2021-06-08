@@ -1,0 +1,109 @@
+.logo{
+	display: inline-block;
+	color: #FA6980;
+	margin: 18px 92px 17px 20px;
+	font-family: 'Staatliches';
+}
+.navigation{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 22px; 
+}
+.nav-a{
+	color: #343638;
+}
+.girl-profile{
+	display: inline-block;
+}
+.header-wrapper{
+	background-color: #F6F8F9;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%
+}
+.section-after-header{
+	margin-top: 51px;
+}
+.images{
+	display: inline-block;
+	position: relative;
+	margin-top: 40px;
+	margin-right: 20px;
+}
+.mini-text{
+	position: absolute;
+	color: #FFFFFF;
+	top:28px;
+	right: 40px
+	bottom: 202px;
+	left: 40px;
+	font-family: 'Staatliches';
+}
+.div1{
+	margin: 0 auto;
+	width: 1160px;
+	margin-top: 43px;
+	background-color: #FFFFFF;
+	/*margin-right: 40px;*/
+}
+.paragrap{
+	width: 280px;
+	color: #A6ADB4;
+	margin-top: 148px;
+	font-family: 'Roboto Slab';
+}
+.div2{
+	margin: 0 auto;
+	width: 1160px;
+	margin-top: 58px;
+}
+.block1{
+	display: inline-block;
+	width: 760px;
+}
+.block2{
+	display: inline-block;
+	width: 360px;
+	margin-bottom: 103px;
+	margin-left: 20px;
+}
+.foto{
+	display: inline-block;
+	margin-bottom: 102px;
+}
+.foot-er{
+	background-color: #A6ADB4;
+	width: 100%;
+	/*height: 200px;*/
+}
+.navigation2{
+	display: inline-block;
+	margin: 58px 70px 60px;
+	font-family: 'Staatliches';
+}
+.logo2{
+	display: inline-block;
+	color: #FFFFFF;
+	margin: 58px 89px 100px 90px; 
+}
+.minip{
+	display: inline-block;
+	width: 243px;
+	margin-bottom: 129px;
+	color: #CBD0D3;
+}
+.nav-a2{
+	color: #CBD0D3;
+}
+.icons{
+	display: inline-block;
+	width: 160px;
+	margin-left: 160px;
+}
+.social{
+	display: inline-block;
+	margin-right: 20px;
+}
